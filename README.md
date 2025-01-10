@@ -21,3 +21,5 @@ More facts:
  - All files starting with an `a` are for the "master" brick, the one starting
    with a `b` is for the "slave" brick
 
+![robot photo 1](./assets/photo1.jpg)
+![robot photo 2](./assets/photo2.jpg)
